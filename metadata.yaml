@@ -1,0 +1,24 @@
+_repo: The-Khaki-Boys-at-Camp-SterlingTraining-for-the-Big-Fight-in-France_46027
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46027-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bates, Gordon
+    gutenberg_agent_id: '4742'
+    url: http://www.gutenberg.org/2009/agents/4742
+description: ''
+gutenberg_issued: '2014-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+title: The Khaki Boys at Camp Sterling; Or, Training for the Big Fight in France
+url: http://www.gutenberg.org/ebooks/46027
