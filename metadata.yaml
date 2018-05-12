@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4742'
     url: http://www.gutenberg.org/2009/agents/4742
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46027#The-Khaki-Boys-at-Camp-SterlingTraining-for-the-Big-Fight-in-France
 gutenberg_issued: '2014-06-18'
 gutenberg_type: Text
 identifiers:
